@@ -1,0 +1,14 @@
+venv/
+
+# temporary files
+*~
+# python
+*.pyc
+*.pyo
+__pycache__
+# IDEs folders
+*.qmlproject*
+/nbproject
+.idea
+.cache
+.nfs*

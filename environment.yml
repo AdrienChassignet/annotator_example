@@ -1,0 +1,7 @@
+# run: conda env create --file environment.yml
+name: annotator-example
+dependencies:
+- python==3.8.10
+- pip
+- pip:
+  - PySide2==5.14.0
